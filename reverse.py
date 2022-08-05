@@ -5,4 +5,5 @@ def rev():
     a[2].reverse()
     a.reverse()
     return a
-print(rev())
+rev()
+print(a)
